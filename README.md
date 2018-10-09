@@ -18,3 +18,9 @@ yarn start
 ```bash
 yarn test
 ```
+
+## Shell Screen
+![Shell Screen](https://github.com/aktug/node-rock-paper-scissors/blob/master/public/ss.png?raw=true)
+
+## Test Cases
+![Test Cases](https://github.com/aktug/node-rock-paper-scissors/blob/master/public/testcases.png?raw=true)
